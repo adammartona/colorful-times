@@ -1,0 +1,13 @@
+@font-face { font-family: FiraSans-LightItalic; src: url('FiraSans-LightItalic.otf'); }
+body{
+text-align: center;
+}
+body h1{
+color:#999;
+}
+body p{
+color:#999;
+}
+#ido {
+font-family:'FiraSans-LightItalic';
+}
